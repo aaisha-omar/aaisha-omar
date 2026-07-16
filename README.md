@@ -226,22 +226,19 @@ Blockchain Developer • Smart Contract Engineer • Software Developer
 
 # 🌍 Connect With Me
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/fathiasafio">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fathia-safio-334354326/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:fathiasafio@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
 
 ---
 
-<p align="center">
-<b>💡 Code • Build • Learn • Repeat 🚀</b>
-</p>
