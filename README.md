@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Fathia%20Safio&fontSize=60&fontAlignY=38&desc=Blockchain%20Developer%20|%20Smart%20Contract%20Engineer&descAlignY=60&animation=fadeIn" width="100%"/>
+  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 </p>
 
 <h1 align="center">Hi 👋, I'm Fathia Safio</h1>
