@@ -8,11 +8,11 @@
 Blockchain Developer • Smart Contract Engineer • Software Developer
 </h3>
 
-<p align="center">
+<p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Blockchain+Developer;Smart+Contract+Engineer;Solidity+%7C+Vyper+%7C+Rust;Building+Secure+Web3+Applications"/>
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=fathiasafio&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
@@ -32,19 +32,19 @@ Blockchain Developer • Smart Contract Engineer • Software Developer
 
 ## 🌐 Frontend
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,flutter"/>
 </p>
 
 ## ⚙️ Backend
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django"/>
 </p>
 
 ## ⛓ Blockchain
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=solidity,rust"/>
 <br><br>
 <img src="https://img.shields.io/badge/Vyper-5C4EE5?style=for-the-badge&logo=python&logoColor=white"/>
@@ -57,13 +57,13 @@ Blockchain Developer • Smart Contract Engineer • Software Developer
 
 ## 🗄 Databases
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
 </p>
 
 ## 🧰 Software & Tools
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,npm,figma"/>
 </p>
 
@@ -80,7 +80,7 @@ Blockchain Developer • Smart Contract Engineer • Software Developer
 <img src="https://streak-stats.demolab.com?user=fathiasafio&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=fathiasafio&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
