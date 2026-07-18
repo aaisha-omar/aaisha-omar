@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 </p>
 
@@ -8,10 +8,10 @@
 Blockchain Developer • Smart Contract Engineer • Software Developer
 </h3>
  <p>
-  <a href="https://www.linkedin.com/in/rahuloraj/"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
-  <a href="https://x.com/rahuloraj"><img src="https://skillicons.dev/icons?i=twitter" height="32"/></a>
-  <a href="https://www.instagram.com/rahuloraj/"><img src="https://skillicons.dev/icons?i=instagram" height="32"/></a>
-<a href="https://rahuloraj.netlify.app/" target="_blank">
+  <a href="https://www.linkedin.com/in/fathiasafio/"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
+  <a href="https://x.com/fathiasafio"><img src="https://skillicons.dev/icons?i=twitter" height="32"/></a>
+  <a href="https://www.instagram.com/fathiasafio/"><img src="https://skillicons.dev/icons?i=instagram" height="32"/></a>
+<a href="https://fathiasafio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&color=FFB300&logoColor=black" />
 </a>
 </a>
