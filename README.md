@@ -7,7 +7,15 @@
 <h3 align="center">
 Blockchain Developer • Smart Contract Engineer • Software Developer
 </h3>
-
+ <p>
+  <a href="https://www.linkedin.com/in/rahuloraj/"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
+  <a href="https://x.com/rahuloraj"><img src="https://skillicons.dev/icons?i=twitter" height="32"/></a>
+  <a href="https://www.instagram.com/rahuloraj/"><img src="https://skillicons.dev/icons?i=instagram" height="32"/></a>
+<a href="https://rahuloraj.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&color=FFB300&logoColor=black" />
+</a>
+</a>
+</p>
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Blockchain+Developer;Smart+Contract+Engineer;Solidity+%7C+Vyper+%7C+Rust;Building+Secure+Web3+Applications"/>
 </p>
@@ -206,39 +214,21 @@ Blockchain Developer • Smart Contract Engineer • Software Developer
 <br />
 
 ---
+<div>
+<!-- Trophies -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=fathiasafio&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 
-# 📊 GitHub Analytics
-
+<br/><br/>
+</div>
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fathiasafio&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathiasafio&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fathiasafio&theme=react-dark&bg_color=0d1117&color=08f7fe&line=ff2e63&point=ffffff&area=true&hide_border=true"/>
 </p>
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=fathiasafio&theme=tokyonight&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fathiasafio/fathiasafio/blob/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/fathiasafio/fathiasafio/blob/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://github.com/fathiasafio/fathiasafio/blob/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=fathiasafio&theme=algolia&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-# 🌍 Connect With Me
-
-<p align="left">
-<a href="https://github.com/fathiasafio">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fathia-safio-334354326/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:fathiasafio@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-</p>
-
----
-
+--- 
